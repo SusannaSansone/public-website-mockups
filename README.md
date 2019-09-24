@@ -11,12 +11,12 @@
 **Point and Click Option**
 
 - Download this folder by [clicking here](https://github.com/nih-cfde/public-website-mockups/archive/master.zip)
-- Navigate to the 'nih-cfde-master/public-site-mockups/' folder on your local machine
+- Navigate to the 'nih-cfde-master/public-website-mockups/' folder on your local machine
 - unzip folder on your local machine
 - double click "index.html" to launch in your default web browser
 
 **Command Line Option**
 - Clone this directory with the following command: `git clone https://github.com/nih-cfde/public-website-mockups.git`
-- Navigate to the 'nih-cfde/public-site-mockups/' folder on your local machine
+- Navigate to the 'nih-cfde/public-website-mockups/' folder on your local machine
 - double click "index.html" to launch in your default web browser
 
