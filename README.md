@@ -20,3 +20,4 @@
 - Navigate to the 'nih-cfde/public-website-mockups/' folder on your local machine
 - double click "index.html" to launch in your default web browser
 
+### Please provide feedback by opening an issue on this repo.
