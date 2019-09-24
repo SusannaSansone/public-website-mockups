@@ -1,4 +1,4 @@
-## This folder contains static HTML/CSS mockups for the initial public CFDE website (due in December 2019).  
+## This repo contains static HTML/CSS mockups for the initial public CFDE website (due in December 2019).  
 ## All content is in draft form. To contribute to content, please use the [public-website-content repo](https://github.com/nih-cfde/public-website-content).
   
 ### Placeholder content was taken from the following sources:  
