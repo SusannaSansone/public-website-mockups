@@ -1,0 +1,80 @@
+.contributor {
+    border: 1px solid #e6e6e6;
+    color: #5a5a5a;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 30px 20px;
+    text-align: center;
+    vertical-align: top;
+    width: 380px;
+}
+
+.contributor img {
+    margin-bottom: 10px;
+    width: 155px;
+}
+
+.contributor p {
+    font-size: .9em;
+}
+
+.contact-label {
+    padding: 0 6px;
+}
+
+.gp-form-field {
+    float: none !important;
+    width: 60% !important;
+    margin: 0 auto 20px auto !important;
+    padding: 0 !important;
+}
+
+.gp-submit {
+    text-align: center;
+}
+
+.middle {
+    margin: 20px 26px !important;
+}
+
+.partner {
+    border: 1px solid #e6e6e6;
+    color: #5a5a5a;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 30px;
+    vertical-align: top;
+    width: 380px;
+}
+
+.partner img {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.product-desc {
+    font-size: 16px !important;
+}
+
+.product-details a:hover {
+    color: #750888;
+}
+
+.product-details td {
+    border: none;
+    vertical-align: top;
+}
+
+.required {
+    color: red;
+}
+
+.submit-btn {
+    border-radius: 0 !important;
+    width: 100px !important;
+    margin: 0 auto;
+}
